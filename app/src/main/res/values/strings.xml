@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Instagram Info</string>
+    <string name="username">Username</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
+</resources>
